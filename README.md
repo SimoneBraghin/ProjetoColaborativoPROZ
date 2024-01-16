@@ -9,3 +9,5 @@ Atividade realizada em sala no dia 15 de janeiro de 2024.
 - Adicione um arquivo e faça o primeiro commit
 - Crie um novo repositório no Github 
 - Configure-o como repositório remoto do seu projeto através do terminal
+
+#### Deu certo o comando, Obrigado ;) RVW
